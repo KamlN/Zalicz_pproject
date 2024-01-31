@@ -1,0 +1,14 @@
+/Users/kamin/Documents/Code project/bin/Debug/net8.0/Code project
+/Users/kamin/Documents/Code project/bin/Debug/net8.0/Code project.deps.json
+/Users/kamin/Documents/Code project/bin/Debug/net8.0/Code project.runtimeconfig.json
+/Users/kamin/Documents/Code project/bin/Debug/net8.0/Code project.dll
+/Users/kamin/Documents/Code project/bin/Debug/net8.0/Code project.pdb
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.AssemblyInfoInputs.cache
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.AssemblyInfo.cs
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.csproj.CoreCompileInputs.cache
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.dll
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/refint/Code project.dll
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.pdb
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/Code project.genruntimeconfig.cache
+/Users/kamin/Documents/Code project/obj/Debug/net8.0/ref/Code project.dll
